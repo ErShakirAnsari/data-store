@@ -132,12 +132,15 @@
             "id": 201007,
             "enabled": true,
             "isSchool": true,
-            "title": "B.Tech in Computer Science & Engineering",
+            "title": "",
             "organization": "Rajasthan Technical University",
             "organizationUrl": "https://www.rtu.ac.in/",
             "startDate": "2010-07-01",
-            "endDate": "2014-05-31",
-            "active": true
+            "endDate": "2014-05-30",
+            "sortKey": 2010070120140530,
+            "active": true,
+            "location": "Kota, Rajasthan, India",
+            "description": "B.Tech in Computer Science & Engineering"
         },
         {
             "id": 200707,
