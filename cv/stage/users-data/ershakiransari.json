@@ -130,7 +130,7 @@
     "education": [
         {
             "id": 201007,
-            "enabled": true,
+            "active": false,
             "isSchool": true,
             "title": "B.Tech in Computer Science & Engineering",
             "organization": "Rajasthan Technical University",
@@ -140,7 +140,7 @@
         },
         {
             "id": 200707,
-            "enabled": false,
+            "active": false,
             "isSchool": true,
             "title": "Senior Secondary / (10+2)",
             "organization": "Board of Secondary Education Rajasthan",
@@ -150,7 +150,7 @@
         },
         {
             "id": 200507,
-            "enabled": false,
+            "active": false,
             "isSchool": true,
             "title": "Secondary / (10th)",
             "organization": "Board of Secondary Education Rajasthan",
