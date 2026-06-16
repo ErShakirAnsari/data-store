@@ -1,8 +1,8 @@
 {
     "profile": {
         "name": "Shakir Ansari",
-        "email": "shakir@email.com",
-        "description": "I'm a skilled Software Developer with extensive experience in backend development using  **Java** ,  **SpringBoot** ,  **Hibernate**, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions..\n\nAlso Proficient in frontend technologies, including  **ReactJS** and  **Tailwind CSS,**  with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals."
+        "email": "shakir@email.co",
+        "description": "I'm a skilled Software Developer with extensive experience in backend development using  **Java** ,  **SpringBoot** , Hibernate, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions..\n\nAlso Proficient in frontend technologies, including  **ReactJS** and  **Tailwind CSS,**  with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals."
     },
     "socialMedias": [
         {
@@ -130,17 +130,18 @@
     "education": [
         {
             "id": 201007,
-            "active": false,
+            "enabled": true,
             "isSchool": true,
             "title": "B.Tech in Computer Science & Engineering",
             "organization": "Rajasthan Technical University",
             "organizationUrl": "https://www.rtu.ac.in/",
             "startDate": "2010-07-01",
-            "endDate": "2014-05-31"
+            "endDate": "2014-05-31",
+            "active": true
         },
         {
             "id": 200707,
-            "active": false,
+            "enabled": false,
             "isSchool": true,
             "title": "Senior Secondary / (10+2)",
             "organization": "Board of Secondary Education Rajasthan",
@@ -150,7 +151,7 @@
         },
         {
             "id": 200507,
-            "active": false,
+            "enabled": false,
             "isSchool": true,
             "title": "Secondary / (10th)",
             "organization": "Board of Secondary Education Rajasthan",
