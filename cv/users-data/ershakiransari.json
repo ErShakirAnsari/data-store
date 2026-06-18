@@ -15,7 +15,7 @@
             "id": "linkedin",
             "name": "LinkedIn",
             "active": true,
-            "url": "https://www.linkedin.com/in/ershakiransari"
+            "url": "https://www.linkedin.com/in/ershakiransari/"
         },
         {
             "id": "twitter",
@@ -47,10 +47,7 @@
             "startDate": "2024-02-26",
             "endDate": null,
             "working": true,
-            "skills": [
-                "Worked on Nagarro's new product - Nagarro AI",
-                "Developed a new feature in Nagarro AI - Nagarro Chat"
-            ]
+            "skills": []
         },
         {
             "id": 202206,
