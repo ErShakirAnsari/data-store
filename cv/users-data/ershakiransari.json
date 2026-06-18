@@ -15,7 +15,7 @@
             "id": "linkedin",
             "name": "LinkedIn",
             "active": true,
-            "url": "https://www.linkedin.com/in/shakiransari/"
+            "url": "https://www.linkedin.com/in/ershakiransari/"
         },
         {
             "id": "twitter",
@@ -33,7 +33,7 @@
             "id": "docker",
             "name": "Docker",
             "url": "https://hub.docker.com/repositories/ershakiransari",
-            "active": true
+            "active": false
         }
     ],
     "workExperience": [
