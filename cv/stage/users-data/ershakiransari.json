@@ -2,7 +2,7 @@
     "profile": {
         "name": "Shakir Ansari",
         "email": "shakir.ansari@live.com",
-        "description": "I'm a skilled Software Developer with extensive experience in backend development using  **Java** ,  **SpringBoot** , Hibernate, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions..\n\nAlso Proficient in frontend technologies, including  **ReactJS** and  **Tailwind CSS,**  with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals."
+        "description": "I'm a skilled Software Developer with extensive experience in backend development using  **Java** ,  **SpringBoot** , Hibernate, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions..\n\nAlso Proficient in frontend technologies, including  **ReactJS** and  **Tailwind CSS,**  with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals!"
     },
     "socialMedias": [
         {
@@ -47,7 +47,10 @@
             "startDate": "2024-02-26",
             "endDate": null,
             "working": true,
-            "skills": []
+            "skills": [
+                "Worked on Nagarro's new product - Nagarro AI",
+                "Developed a new feature in Nagarro AI - Nagarro Chat"
+            ]
         },
         {
             "id": 202206,
